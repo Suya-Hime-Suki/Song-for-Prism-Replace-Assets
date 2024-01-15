@@ -6,6 +6,7 @@
 한글패치 후 replace_assets 폴더 안에 다운받은 replace_assets를 붙여넣기
 
 [다운로드](https://github.com/Suya-Hime-Suki/Song-for-Prism-Replace-Assets/releases)
+
 ――――――――――――――――――――――――――――
 
 ### 모드
