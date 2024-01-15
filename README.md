@@ -11,7 +11,7 @@
 
 ### 모드
 
-![서포트](https://imgur.com/PRjJcNc)
+![서포트 쉽게 찾기](https://imgur.com/PRjJcNc)
 
 서포트 쉽게 찾기
 
