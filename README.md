@@ -12,4 +12,6 @@
 ### 모드
 
 ![서포트](https://i.imgur.com/PRjJcNc.png)
-서포트 쉽게 찾기 [다운로드](http://zeldahagoshipda.com](https://github.com/Suya-Hime-Suki/Song-for-Prism-Replace-Assets/raw/main/mods/Easy%20Find%20Support/easy_find_support)https://github.com/Suya-Hime-Suki/Song-for-Prism-Replace-Assets/raw/main/mods/Easy%20Find%20Support/easy_find_support)
+서포트 쉽게 찾기
+
+[다운로드](http://zeldahagoshipda.com](https://github.com/Suya-Hime-Suki/Song-for-Prism-Replace-Assets/raw/main/mods/Easy%20Find%20Support/easy_find_support)https://github.com/Suya-Hime-Suki/Song-for-Prism-Replace-Assets/raw/main/mods/Easy%20Find%20Support/easy_find_support)
