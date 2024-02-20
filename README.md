@@ -14,4 +14,4 @@
 ![서포트](https://i.imgur.com/PRjJcNc.png)
 서포트 쉽게 찾기
 
-[다운로드](https://github.com/Suya-Hime-Suki/Song-for-Prism-Replace-Assets/blob/main/mods/Easy%20Find%20Support/easy_find_support) (2023/02/03)
+[다운로드](https://mega.nz/file/Dkt0kRDS#mJprGwRdGMxzoB1hIJ1vxNQEYM4Qf7_MTMtxm25Jt-o) (2023/02/20)
