@@ -3,9 +3,10 @@
 
 ### 이미지 한글패치
 
+[다운로드](https://github.com/Suya-Hime-Suki/Song-for-Prism-Replace-Assets/releases)
+
 한글패치 후 replace_assets 폴더 안에 다운받은 replace_assets를 붙여넣기
 
-[다운로드](https://github.com/Suya-Hime-Suki/Song-for-Prism-Replace-Assets/releases)
 
 ――――――――――――――――――――――――――――
 
@@ -14,4 +15,4 @@
 ![서포트](https://i.imgur.com/PRjJcNc.png)
 서포트 쉽게 찾기
 
-[다운로드](https://mega.nz/file/Dkt0kRDS#mJprGwRdGMxzoB1hIJ1vxNQEYM4Qf7_MTMtxm25Jt-o) (2023/02/20)
+[사용법](https://gall.dcinside.com/m/shinycolors/1466026) (2023/02/22)
