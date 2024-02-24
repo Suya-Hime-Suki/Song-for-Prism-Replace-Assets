@@ -23,3 +23,5 @@
 오토라이브 표시 제거
 
 [다운로드](https://github.com/Suya-Hime-Suki/Song-for-Prism-Replace-Assets/blob/5ec1fb47cc48dcb91ae2da0ec2b7bf81829a7387/mods/Hide%20Auto%20Live/hide_autolive)
+
+라이브 종료 시 이펙트가 깨지는 버그가 있음
