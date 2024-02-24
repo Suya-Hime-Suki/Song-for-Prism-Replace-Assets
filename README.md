@@ -17,8 +17,10 @@
 
 [다운로드](https://github.com/Suya-Hime-Suki/Song-for-Prism-Replace-Assets/releases)　[사용법](https://gall.dcinside.com/m/shinycolors/1466026) (2023/02/22)
 
-　
-　
+
+ 
+
+ 
 ![오토라이브](https://i.imgur.com/F6zjP6n.png)
 오토라이브 표시 제거
 
