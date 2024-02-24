@@ -15,4 +15,5 @@
 ![서포트](https://i.imgur.com/PRjJcNc.png)
 서포트 쉽게 찾기
 
+[다운로드](https://github.com/Suya-Hime-Suki/Song-for-Prism-Replace-Assets/releases)
 [사용법](https://gall.dcinside.com/m/shinycolors/1466026) (2023/02/22)
