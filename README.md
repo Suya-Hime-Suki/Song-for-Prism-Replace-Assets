@@ -30,5 +30,6 @@
 ### 기타
 
 ![리쉐이드](https://imgur.com/hrBkxY5.png)
+리쉐이드
 
 [프리셋 다운로드](https://gall.dcinside.com/m/shinycolors/1433274)
