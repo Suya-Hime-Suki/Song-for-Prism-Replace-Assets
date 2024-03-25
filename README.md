@@ -29,6 +29,6 @@
 
 ### 기타
 
-![리쉐이드](https://dcimg1.dcinside.com/viewimage.php?id=3eb5d928fcd137aa61adc5&no=24b0d769e1d32ca73de986fa11d02831cece6b72dd02ce8c7323b841a4808661315f3f0c6ad0981a7ee41b82290e46718c5e820034050a5e42706a3fc6065f4152f7281b80c4&orgExt)
+![리쉐이드](https://imgur.com/hrBkxY5)
 
-[프리셋 다운로드](https://imgur.com/hrBkxY5)
+[프리셋 다운로드](https://gall.dcinside.com/m/shinycolors/1433274)
